@@ -19,6 +19,13 @@
             "heading_size": "h0"
           }
         },
+        "text_DBtNaD": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>査定相談からお気軽にご来店ください</strong>",
+            "text_style": "body"
+          }
+        },
         "button": {
           "type": "buttons",
           "settings": {
@@ -33,6 +40,7 @@
       },
       "block_order": [
         "heading",
+        "text_DBtNaD",
         "button"
       ],
       "settings": {
@@ -40,7 +48,7 @@
         "image_overlay_opacity": 40,
         "image_height": "large",
         "image_behavior": "none",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-center",
         "desktop_content_alignment": "center",
         "show_text_box": false,
         "color_scheme": "scheme-3",
