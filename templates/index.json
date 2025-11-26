@@ -84,10 +84,29 @@
         "padding_top": 44,
         "padding_bottom": 36
       }
+    },
+    "featured_blog_q3bP6P": {
+      "type": "featured-blog",
+      "name": "t:sections.featured-blog.presets.name",
+      "settings": {
+        "blog": "",
+        "post_limit": 3,
+        "heading": "ブログ記事",
+        "heading_size": "h1",
+        "columns_desktop": 3,
+        "show_view_all": true,
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
-    "featured_collection"
+    "featured_collection",
+    "featured_blog_q3bP6P"
   ]
 }
