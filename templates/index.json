@@ -95,7 +95,7 @@
             "image_overlay_opacity": 0,
             "heading": "スマホ1台で完結！面倒な作業なし！",
             "heading_size": "h1",
-            "subheading": "宅配買取だから日本全国どこにいても買取可能。お品物が多くても、ご自宅からまとめて送れるので、重たい荷物をお店に持ち込む必要はございません。",
+            "subheading": "ミライズカメラの買取サービスは、要らなくなったカメラを箱に詰めて弊社に送るだけ。",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -109,11 +109,12 @@
         "slide_qnXHHj": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/38.jpg",
             "image_overlay_opacity": 0,
-            "heading": "画像スライド",
+            "heading": "減額なしの定額買取だから安心",
             "heading_size": "h1",
-            "subheading": "ブランドのストーリーを画像で伝える",
-            "button_label": "ボタンのラベル",
+            "subheading": "定額買取とは、LINEでの事前査定から<strong>減額なし</strong>で買取するサービスです。",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "show_text_box": true,
@@ -122,11 +123,30 @@
             "text_alignment_mobile": "center",
             "color_scheme": ""
           }
+        },
+        "slide_KHUn4n": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/40.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "大手ショップに負けない高額査定",
+            "heading_size": "h1",
+            "subheading": "ブランドのストーリーを画像で伝える",
+            "button_label": "大手リサイクルショップと比べて最大２倍以上の価格差もございます。",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-1"
+          }
         }
       },
       "block_order": [
         "slide_pFRnW7",
-        "slide_qnXHHj"
+        "slide_qnXHHj",
+        "slide_KHUn4n"
       ],
       "name": "t:sections.slideshow.presets.name",
       "settings": {
