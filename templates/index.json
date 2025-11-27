@@ -92,54 +92,54 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/35.jpg",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 30,
             "heading": "スマホ1台で完結！面倒な作業なし！",
             "heading_size": "h1",
             "subheading": "ミライズカメラの買取サービスは、要らなくなったカメラを箱に詰めて弊社に送るだけ。",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "show_text_box": true,
+            "show_text_box": false,
             "box_align": "middle-center",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
-            "color_scheme": ""
+            "color_scheme": "scheme-4"
           }
         },
         "slide_qnXHHj": {
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/38.jpg",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 30,
             "heading": "減額なしの定額買取だから安心",
             "heading_size": "h1",
             "subheading": "定額買取とは、LINEでの事前査定から<strong>減額なし</strong>で買取するサービスです。",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "show_text_box": true,
+            "show_text_box": false,
             "box_align": "middle-center",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
-            "color_scheme": ""
+            "color_scheme": "scheme-4"
           }
         },
         "slide_KHUn4n": {
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/40.jpg",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 30,
             "heading": "大手ショップに負けない高額査定",
             "heading_size": "h1",
             "subheading": "ブランドのストーリーを画像で伝える",
             "button_label": "大手リサイクルショップと比べて最大２倍以上の価格差もございます。",
             "link": "",
             "button_style_secondary": false,
-            "show_text_box": true,
+            "show_text_box": false,
             "box_align": "middle-center",
             "text_alignment": "center",
             "text_alignment_mobile": "center",
-            "color_scheme": "scheme-1"
+            "color_scheme": "scheme-3"
           }
         }
       },
