@@ -9,82 +9,6 @@
  */
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "中古カメラの買取なら「BAMOS」へ",
-            "heading_size": "h0"
-          }
-        },
-        "text_DBtNaD": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>査定相談からお気軽にご来店ください</strong>",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "商品一覧",
-            "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text_DBtNaD",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/6.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "image_behavior": "none",
-        "desktop_content_position": "middle-center",
-        "desktop_content_alignment": "center",
-        "show_text_box": false,
-        "color_scheme": "scheme-3",
-        "stack_images_on_mobile": false,
-        "mobile_content_alignment": "center",
-        "show_text_below": false
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "all",
-        "products_to_show": 8,
-        "title": "買取対象商品",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "columns_desktop": 4,
-        "enable_desktop_slider": false,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
-        "padding_bottom": 36
-      }
-    },
     "slideshow_tAmKc7": {
       "type": "slideshow",
       "blocks": {
@@ -160,6 +84,34 @@
         "accessibility_info": "ブランドについてのスライドショー"
       }
     },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "all",
+        "products_to_show": 8,
+        "title": "買取対象商品",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
     "featured_blog_q3bP6P": {
       "type": "featured-blog",
       "name": "t:sections.featured-blog.presets.name",
@@ -177,12 +129,60 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "中古カメラの買取なら「BAMOS」へ",
+            "heading_size": "h0"
+          }
+        },
+        "text_DBtNaD": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>査定相談からお気軽にご来店ください</strong>",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "商品一覧",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text_DBtNaD",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/5.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-3",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
     }
   },
   "order": [
-    "image_banner",
-    "featured_collection",
     "slideshow_tAmKc7",
-    "featured_blog_q3bP6P"
+    "featured_collection",
+    "featured_blog_q3bP6P",
+    "image_banner"
   ]
 }
