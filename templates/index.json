@@ -183,7 +183,8 @@
       ],
       "custom_css": [
         ".jdgm-carousel__left-arrow {float: left; margin-left: -25px; margin-top: -150px;}",
-        ".jdgm-carousel__right-arrow {float: right; margin-right: -25px; margin-top: -150px;}"
+        ".jdgm-carousel__right-arrow {float: right; margin-right: -25px; margin-top: -150px;}",
+        ".jdgm-carousel-item__review-title {white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}"
       ],
       "settings": {
         "include_margins": true
