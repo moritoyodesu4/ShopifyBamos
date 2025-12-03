@@ -112,90 +112,26 @@
         "padding_bottom": 36
       }
     },
-    "featured_blog_q3bP6P": {
-      "type": "featured-blog",
-      "name": "t:sections.featured-blog.presets.name",
-      "settings": {
-        "blog": "ニュース",
-        "post_limit": 3,
-        "heading": "ブログ記事",
-        "heading_size": "h1",
-        "columns_desktop": 3,
-        "show_view_all": true,
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "中古カメラの買取なら「BAMOS」へ",
-            "heading_size": "h0"
-          }
-        },
-        "text_DBtNaD": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>査定相談からお気軽にご来店ください</strong>",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "商品一覧",
-            "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text_DBtNaD",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/5.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "image_behavior": "none",
-        "desktop_content_position": "middle-center",
-        "desktop_content_alignment": "center",
-        "show_text_box": false,
-        "color_scheme": "scheme-3",
-        "stack_images_on_mobile": false,
-        "mobile_content_alignment": "center",
-        "show_text_below": false
-      }
-    },
     "collage_XMJcTB": {
       "type": "collage",
       "blocks": {
         "image_6wdEw9": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/10.jpg"
+          }
         },
         "product_zRpyEY": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "nikon-z-8-ボディ",
             "second_image": false
           }
         },
         "collection_BQHRyy": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "カメラアクセサリー"
           }
         }
       },
@@ -215,13 +151,46 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "featured_blog_q3bP6P": {
+      "type": "featured-blog",
+      "name": "t:sections.featured-blog.presets.name",
+      "settings": {
+        "blog": "ニュース",
+        "post_limit": 3,
+        "heading": "ブログ記事",
+        "heading_size": "h1",
+        "columns_desktop": 3,
+        "show_view_all": true,
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_gJpPz8": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "heading": "動画",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https://www.youtube.com/watch?v=cFpgwkjy8pY&list=PLL06nPE7_lzM8jjKpi6XhGlzMgZYcOoz-",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "slideshow_tAmKc7",
     "featured_collection",
+    "collage_XMJcTB",
     "featured_blog_q3bP6P",
-    "image_banner",
-    "collage_XMJcTB"
+    "video_gJpPz8"
   ]
 }
