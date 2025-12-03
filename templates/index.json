@@ -156,7 +156,7 @@
       "type": "video",
       "name": "t:sections.video.presets.name",
       "settings": {
-        "heading": "動画",
+        "heading": "",
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https://www.youtube.com/watch?v=cFpgwkjy8pY&list=PLL06nPE7_lzM8jjKpi6XhGlzMgZYcOoz-",
