@@ -87,9 +87,9 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "all",
+        "collection": "アクションカメラ",
         "products_to_show": 8,
-        "title": "買取対象商品",
+        "title": "<strong>特集コレクション</strong>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -177,12 +177,51 @@
         "mobile_content_alignment": "center",
         "show_text_below": false
       }
+    },
+    "collage_XMJcTB": {
+      "type": "collage",
+      "blocks": {
+        "image_6wdEw9": {
+          "type": "image",
+          "settings": {}
+        },
+        "product_zRpyEY": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "collection_BQHRyy": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_6wdEw9",
+        "product_zRpyEY",
+        "collection_BQHRyy"
+      ],
+      "name": "t:sections.collage.presets.name",
+      "settings": {
+        "heading": "マルチメディアコラージュ",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "slideshow_tAmKc7",
     "featured_collection",
     "featured_blog_q3bP6P",
-    "image_banner"
+    "image_banner",
+    "collage_XMJcTB"
   ]
 }
