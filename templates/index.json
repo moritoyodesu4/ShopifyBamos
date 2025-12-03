@@ -207,6 +207,54 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_banner_XAbmMN": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_QXA8RD": {
+          "type": "heading",
+          "settings": {
+            "heading": "画像バナー",
+            "heading_size": "h1"
+          }
+        },
+        "text_TWgNdJ": {
+          "type": "text",
+          "settings": {
+            "text": "テンプレートのバナー画像またはコンテンツに関する詳細をお客様に提供します。",
+            "text_style": "body"
+          }
+        },
+        "buttons_C8aKV6": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "ボタンのラベル",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "ボタンのラベル",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QXA8RD",
+        "text_TWgNdJ",
+        "buttons_C8aKV6"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -215,6 +263,7 @@
     "collage_XMJcTB",
     "video_gJpPz8",
     "1764765263b676a239",
-    "featured_blog_q3bP6P"
+    "featured_blog_q3bP6P",
+    "image_banner_XAbmMN"
   ]
 }
