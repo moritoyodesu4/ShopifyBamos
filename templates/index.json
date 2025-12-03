@@ -152,6 +152,21 @@
         "padding_bottom": 36
       }
     },
+    "video_gJpPz8": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "heading": "動画",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https://www.youtube.com/watch?v=cFpgwkjy8pY&list=PLL06nPE7_lzM8jjKpi6XhGlzMgZYcOoz-",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_blog_q3bP6P": {
       "type": "featured-blog",
       "name": "t:sections.featured-blog.presets.name",
@@ -170,16 +185,48 @@
         "padding_bottom": 36
       }
     },
-    "video_gJpPz8": {
-      "type": "video",
-      "name": "t:sections.video.presets.name",
+    "image_with_text_ajqrnR": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_9Jg4i7": {
+          "type": "heading",
+          "settings": {
+            "heading": "テキスト付き画像",
+            "heading_size": "h1"
+          }
+        },
+        "text_kdNbCB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>選択した商品、コレクション、ブログ記事に注目を集めるため、テキストと画像を組み合わせます。可用性、スタイル、またはレビュー提供についての詳細を追加します。</p>",
+            "text_style": "body"
+          }
+        },
+        "button_adh4DY": {
+          "type": "button",
+          "settings": {
+            "button_label": "ボタンのラベル",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9Jg4i7",
+        "text_kdNbCB",
+        "button_adh4DY"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "heading": "動画",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https://www.youtube.com/watch?v=cFpgwkjy8pY&list=PLL06nPE7_lzM8jjKpi6XhGlzMgZYcOoz-",
-        "description": "",
-        "full_width": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
         "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -190,7 +237,8 @@
     "slideshow_tAmKc7",
     "featured_collection",
     "collage_XMJcTB",
-    "featured_blog_q3bP6P",
-    "video_gJpPz8"
+    "video_gJpPz8",
+    "image_with_text_ajqrnR",
+    "featured_blog_q3bP6P"
   ]
 }
