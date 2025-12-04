@@ -89,7 +89,7 @@
       "settings": {
         "collection": "アクションカメラ",
         "products_to_show": 8,
-        "title": "<strong>特集コレクション</strong>",
+        "title": "<strong>人気商品</strong>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
