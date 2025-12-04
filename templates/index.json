@@ -214,25 +214,25 @@
         "heading_QXA8RD": {
           "type": "heading",
           "settings": {
-            "heading": "画像バナー",
+            "heading": "買取サービス",
             "heading_size": "h1"
           }
         },
         "text_TWgNdJ": {
           "type": "text",
           "settings": {
-            "text": "テンプレートのバナー画像またはコンテンツに関する詳細をお客様に提供します。",
+            "text": "EC特化型のスリムな運営体制により、店舗コストを極限まで削減！",
             "text_style": "body"
           }
         },
         "buttons_C8aKV6": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "ボタンのラベル",
-            "button_link_1": "",
+            "button_label_1": "買取サイト",
+            "button_link_1": "https://goldcow36.sakura.ne.jp/bamos/",
             "button_style_secondary_1": false,
-            "button_label_2": "ボタンのラベル",
-            "button_link_2": "",
+            "button_label_2": "LINE簡単査定",
+            "button_link_2": "https://line.me",
             "button_style_secondary_2": false
           }
         }
