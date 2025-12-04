@@ -196,7 +196,7 @@
       "settings": {
         "blog": "ニュース",
         "post_limit": 3,
-        "heading": "ブログ記事",
+        "heading": "新着情報",
         "heading_size": "h1",
         "columns_desktop": 3,
         "show_view_all": true,
