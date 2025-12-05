@@ -65,31 +65,12 @@
             "text_alignment_mobile": "center",
             "color_scheme": "scheme-3"
           }
-        },
-        "slide_QLyKCm": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/35.jpg",
-            "image_overlay_opacity": 0,
-            "heading": "画像スライド",
-            "heading_size": "h1",
-            "subheading": "ブランドのストーリーを画像で伝える",
-            "button_label": "ボタンのラベル",
-            "link": "",
-            "button_style_secondary": false,
-            "show_text_box": true,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "text_alignment_mobile": "center",
-            "color_scheme": "scheme-1"
-          }
         }
       },
       "block_order": [
         "slide_pFRnW7",
         "slide_qnXHHj",
-        "slide_KHUn4n",
-        "slide_QLyKCm"
+        "slide_KHUn4n"
       ],
       "name": "t:sections.slideshow.presets.name",
       "settings": {
