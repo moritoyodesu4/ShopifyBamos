@@ -89,7 +89,7 @@
       "settings": {
         "collection": "アクションカメラ",
         "products_to_show": 8,
-        "title": "<strong>特集コレクション</strong>",
+        "title": "<strong>人気商品</strong>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -118,7 +118,7 @@
         "image_6wdEw9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/10.jpg"
+            "image": "shopify://shop_images/Z18wOV8wMQ.webp"
           }
         },
         "product_zRpyEY": {
@@ -142,7 +142,7 @@
       ],
       "name": "t:sections.collage.presets.name",
       "settings": {
-        "heading": "マルチメディアコラージュ",
+        "heading": "おすすめコンテンツ",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "column",
@@ -196,7 +196,7 @@
       "settings": {
         "blog": "ニュース",
         "post_limit": 3,
-        "heading": "ブログ記事",
+        "heading": "新着情報",
         "heading_size": "h1",
         "columns_desktop": 3,
         "show_view_all": true,
