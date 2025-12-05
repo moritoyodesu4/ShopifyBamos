@@ -3598,3 +3598,6 @@ details-disclosure > details {
 .shopify-policy__container {
   max-width: 120ch;
 }
+.slideshow__autoplay {
+  display: none;
+}
